@@ -7,6 +7,11 @@
 - Goaltender factor. Identify what goaltender was more successful.
 - Defender factor. Identify best defender by +/-  statistics.
 
+  ## Factor of home arena:
+![1](https://github.com/user-attachments/assets/ba00d94a-281a-4be1-9358-1cf26237e1b2)
+
+
+
  ## Sources:
  - https://api-web.nhle.com/v1/score/{date}
  - https://api-web.nhle.com/v1/club-schedule-season/EDM/20232024
